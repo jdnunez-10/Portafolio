@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio | Jose Daniel Nuñez
+# 🚀 Portafolio personal | Jose Daniel Nuñez
 
 ¡Bienvenido al repositorio de mi portafolio profesional! Este proyecto ha sido diseñado para mostrar mi trayectoria como **Estudiante de Ingeniería en Sistemas** (a 7 clases de culminar) y mi experiencia actual como **Técnico de Redes Nivel I** en ITS Infocom Honduras.
 
