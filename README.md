@@ -1,16 +1,32 @@
-# React + Vite
+# 🚀 Personal Portfolio | Jose Daniel Nuñez
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido al repositorio de mi portafolio profesional! Este proyecto ha sido diseñado para mostrar mi trayectoria como **Estudiante de Ingeniería en Sistemas** (a 7 clases de culminar) y mi experiencia actual como **Técnico de Redes Nivel I** en ITS Infocom Honduras.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Stack Tecnológico
 
-## React Compiler
+El portafolio fue construido utilizando herramientas modernas para garantizar rendimiento y escalabilidad:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Estilos:** [Tailwind CSS 4.0](https://tailwindcss.com/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Características
+
+- **Diseño Responsive:** Adaptable a dispositivos móviles, tablets y escritorio.
+- **Navegación Smooth Scroll:** Desplazamiento fluido entre secciones (Inicio, Habilidades, Proyectos, Contacto).
+- **Dark Mode Estético:** Interfaz técnica inspirada en entornos de desarrollo y terminales.
+- **Sección de Proyectos Dinámica:** Enlaces directos a mis repositorios destacados (CodeFlow & E-commerce).
+
+---
+
+## 👨‍💻 Sobre mí
+- **Ubicación:** Tegucigalpa, Honduras 🇭🇳
+
+- **Educación:** Universidad Nacional Autónoma de Honduras (UNAH)
+
+- **Certificaciones:** CCNA I
+
+- **Intereses:** Redes, Desarrollo Full Stack, Oratoria y Liderazgo.
