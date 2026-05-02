@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="pt-32 pb-16 px-6 max-w-6xl mx-auto flex flex-col lg:flex-row items-center gap-12">
       <div className="flex-1 text-center lg:text-left">
-        <h2 className="text-blue-500 font-mono mb-3">Ingeniería en Sistemas | Redes</h2>
+        <h2 className="text-blue-500 font-mono mb-3">Futuro Ingeniero En Sistemas</h2>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
           Conectando <span className="text-slate-400">código</span> con <span className="text-blue-400">infraestructura</span>.
         </h1>
