@@ -27,7 +27,7 @@ function App() {
       
       <footer className="max-w-6xl mx-auto px-6 py-10 border-t border-slate-800 text-center">
          <p className="text-slate-500 text-xs tracking-widest uppercase">
-           Hecho con React 19 + Tailwind CSS 4 | Jose Daniel Nuñez 2026
+           Desarrollador Full-Stack Freelance  | Jose Daniel Nuñez 2026
          </p>
       </footer>
     </div>
